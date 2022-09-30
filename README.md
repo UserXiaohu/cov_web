@@ -24,19 +24,21 @@ l 管理员后台管理系统（防疫宣传内容管理、英雄人物管理、
 
 ## 四、**功能结构**
 
-![img](file:///https://github.com/UserXiaohucov_web/blob/main/img/wps1.png)
+![img](file:///https://github.com/UserXiaohu/cov_web/blob/main/img/wps1.png)
 
 ## 五、**运行截图**
 
-![img](file:///https://github.com/UserXiaohucov_web/blob/main/img/wps2.jpg) 
-
-![img](file:///https://github.com/UserXiaohucov_web/blob/main/img/wps3.jpg)![img](file:///https://github.com/UserXiaohucov_web/blob/main/img/wps4.jpg) 
-
-![img](file:///https://github.com/UserXiaohucov_web/blob/main/img/wps5.jpg) 
-
-![img](file:///https://github.com/UserXiaohucov_web/blob/main/img/wps6.jpg) 
-
-![img](file:///https://github.com/UserXiaohucov_web/blob/main/img/wps7.jpg)![img](file:///https://github.com/UserXiaohucov_web/blob/main/img/wps8.jpg)![img](file:///https://github.com/UserXiaohucov_web/blob/main/img/wps9.jpg)![img](file:///https://github.com/UserXiaohucov_web/blob/main/img/wps10.jpg)![img](file:///https://github.com/UserXiaohucov_web/blob/main/img/wps11.jpg)![img](file:///https://github.com/UserXiaohucov_web/blob/main/img/wps12.jpg) 
+![img](file:///https://github.com/UserXiaohu/cov_web/blob/main/img/wps2.jpg) 
+![img](file:///https://github.com/UserXiaohu/cov_web/blob/main/img/wps3.jpg)
+![img](file:///https://github.com/UserXiaohu/cov_web/blob/main/img/wps4.jpg) 
+![img](file:///https://github.com/UserXiaohu/cov_web/blob/main/img/wps5.jpg) 
+![img](file:///https://github.com/UserXiaohu/cov_web/blob/main/img/wps6.jpg) 
+![img](file:///https://github.com/UserXiaohu/cov_web/blob/main/img/wps7.jpg)
+![img](file:///https://github.com/UserXiaohu/cov_web/blob/main/img/wps8.jpg)
+![img](file:///https://github.com/UserXiaohu/cov_web/blob/main/img/wps9.jpg)
+![img](file:///https://github.com/UserXiaohu/cov_web/blob/main/img/wps10.jpg)
+![img](file:///https://github.com/UserXiaohu/cov_web/blob/main/img/wps11.jpg)
+![img](file:///https://github.com/UserXiaohu/cov_web/blob/main/img/wps12.jpg) 
 
  
 
